@@ -8,6 +8,10 @@ Musical Cities Map:
 Future Maps Template:
 [https://github.com/spotifymaps/spotifymaps.github.com/tree/master/maptemplate](https://github.com/spotifymaps/spotifymaps.github.com/tree/master/maptemplate)
 
+### Spotify | Carto Basemap URL:
+http://cartobase-{s}.global.ssl.fastly.net/spotify_dark/{z}/{x}/{y}.png?api_key=es5j1lspt00gaafhlaw0qa4mrijx61nm0bgnnhah
+
+
 To Reproduce the Spotify | Carto Map Template:
 
 1. Get the `viz.json` from your map viz. Get it from here (copy that orange highlighted link): 
