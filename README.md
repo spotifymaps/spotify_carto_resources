@@ -11,6 +11,10 @@ Future Maps Template:
 ### Spotify | Carto Basemap URL:
 `http://cartobase-{s}.global.ssl.fastly.net/spotify_dark/{z}/{x}/{y}.png?api_key=es5j1lspt00gaafhlaw0qa4mrijx61nm0bgnnhah`
 
+### iframe embed code example
+
+	https://embed.spotify.com/?uri=spotify:user:thesoundsofspotify:playlist:01s3zfdCTwJ8yaeX5sbS7J&theme=white&width=285&height=360&frameborder=0&allowtransparency=true
+
 
 To Reproduce the Spotify | Carto Map Template:
 
