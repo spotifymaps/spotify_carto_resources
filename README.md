@@ -9,7 +9,7 @@ Future Maps Template:
 [https://github.com/spotifymaps/spotifymaps.github.com/tree/master/maptemplate](https://github.com/spotifymaps/spotifymaps.github.com/tree/master/maptemplate)
 
 ### Spotify | Carto Basemap URL:
-http://cartobase-{s}.global.ssl.fastly.net/spotify_dark/{z}/{x}/{y}.png?api_key=es5j1lspt00gaafhlaw0qa4mrijx61nm0bgnnhah
+`http://cartobase-{s}.global.ssl.fastly.net/spotify_dark/{z}/{x}/{y}.png?api_key=es5j1lspt00gaafhlaw0qa4mrijx61nm0bgnnhah`
 
 
 To Reproduce the Spotify | Carto Map Template:
