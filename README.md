@@ -10,10 +10,10 @@ Future Maps Template:
 
 To Reproduce the Spotify | Carto Map Template:
 
-1. Get the `viz.json` from your map viz.
+1. Get the `viz.json` from your map viz. Get it from here (copy that orange highlighted link): 
 
-Get it from here (copy that orange highlighted link): ![publish.png](img/publish.png)
+<img src="img/publish.png"  style="width:75%;">
 
+2. Put it here: 
 
-Put it here: ![put_vizjson_here.png](img/put_vizjson_here.png)
-
+<img src="img/put_vizjson_here.png"  style="width:75%;">
